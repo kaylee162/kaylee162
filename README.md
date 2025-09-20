@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my [Portfolio Website](https://github.com/kaylee162/PortfolioWebsite.git)
 
-- 🌱 I’m currently learning **Django, Bootstrap and React. and**
+- 🌱 I’m currently learning **Django, Bootstrap and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaylee162/PortfolioWebsite.git](https://github.com/kaylee162/PortfolioWebsite.git)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kayleehenry162@gmail.com**
 
-- ⚡ Fun fact **I am an Eagle Scout.**
+- ⚡ Fun fact **I am an Eagle Scout**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

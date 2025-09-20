@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kaylee</h1>
 <h3 align="center">A passionate frontend developer at Georgia Institute of Technology</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaylee162" alt="kaylee162" /></a> </p>
-
 - 🔭 I’m currently working on my [Portfolio Website](https://github.com/kaylee162/PortfolioWebsite.git)
 
 - 🌱 I’m currently learning **Django, Bootstrap and React. and**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaylee162/PortfolioWebsite.git](https://github.com/kaylee162/PortfolioWebsite.git)
 
-- 💬 Ask me about **Java, Javascript, or HTML/CSS**
+- 💬 Ask me about **Java, JavaScript, or HTML/CSS**
 
 - 📫 How to reach me **kayleehenry162@gmail.com**
-
-- 📄 Know about my experiences [LINK](LINK)
 
 - ⚡ Fun fact **I am an Eagle Scout.**
 

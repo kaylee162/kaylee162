@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/kaylee162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaylee-henry-769357313/" height="30" width="40" /></a>  
+<a href="[www.linkedin.com/in/kaylee162](https://www.linkedin.com/in/kaylee162)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/kaylee162](https://www.linkedin.com/in/kaylee162)" height="30" width="40" /></a>  
 <a href="https://fb.com/kayleehenry162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaylee_henry" height="30" width="40" /></a>  
 <a href="https://instagram.com/kaylee_henry__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaylee_henry__" height="30" width="40" /></a>
 </p>

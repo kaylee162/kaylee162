@@ -8,12 +8,14 @@ I love combining design and development to turn ideas into interactive, meaningf
 
 ### 💻 About Me
 
-- 🔭 I’m currently working on my [Portfolio Website](https://github.com/kaylee162/PortfolioWebsite)
-- 🌱 I’m learning **Django**, **Bootstrap**, and **React**
-- 💬 Ask me about **Java**, **JavaScript**, or **HTML/CSS**
-- ⚡ Fun fact: **I’m an Eagle Scout**
-- 👩‍💻 Check out all my projects on [my GitHub](https://github.com/kaylee162)
-- 📫 Reach me at **kayleehenry162@gmail.com**
+- Computer Science student with a focus on front-end and full-stack development
+- Currently building and refining several production-style web apps
+- Actively working with Java, C, Node.js and modern JavaScript workflows
+- Comfortable with Java, C, C#, Python, JavaScript, React, Node, and core data structures
+- Happy to talk about UI/UX decisions, web architecture, or project planning
+- Eagle Scout with strong leadership, organization, and real-world problem-solving experience
+- Explore my projects here on GitHub
+- Reach me at kayleehenry162@gmail.com
 
 ### 🌐 Connect with Me
 

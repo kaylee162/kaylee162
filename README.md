@@ -74,14 +74,6 @@ I love combining design and development to turn ideas into interactive, meaningf
 <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaylee162&show_icons=true&theme=tokyonight" alt="Kaylee's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylee162&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ### 🎯 Current Goals
 - Build and deploy my personal portfolio site  
 - Continue expanding my React and Django projects  

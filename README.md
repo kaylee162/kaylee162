@@ -84,7 +84,6 @@ I enjoy combining strong technical implementation with thoughtful design.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" alt="VS Code" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="42" alt="Visual Studio" title="Visual Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="42" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Game%20Boy%20Advance%20Development-C-5C2D91?style=for-the-badge" height="28" alt="Game Boy Advance Development in C" title="Game Boy Advance Development in C"/>
 </p>
 
 ### Design & Visualization  

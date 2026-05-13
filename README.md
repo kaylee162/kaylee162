@@ -37,14 +37,6 @@ I enjoy combining strong technical implementation with thoughtful design.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaylee162&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## Languages & Tools
 
 ### Programming Languages  

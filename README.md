@@ -108,28 +108,6 @@ I enjoy combining strong technical implementation with thoughtful design.
 
 ---
 
-## Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/kaylee162/BuzzedIn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaylee162&repo=BuzzedIn&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/kaylee162/BeyondTheSky">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaylee162&repo=BeyondTheSky&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kaylee162/GTJobSearch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaylee162&repo=GTJobSearch&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/kaylee162/FinanceDash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaylee162&repo=FinanceDash&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## What I’m Working On
 
 - IOS app designs with Figma and Swift/Firebase
